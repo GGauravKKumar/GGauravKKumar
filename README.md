@@ -35,12 +35,12 @@
 - Exploring new opportunities to build and contribute to innovative technologies.
 
 ---
-
+<!---
 📈 Check out my [Portfolio](#) and [Resume](#) for more information!
 
 ---
 
-<!---
+
 GGauravKKumar/GGauravKKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
